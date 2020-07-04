@@ -1,0 +1,17 @@
+.search-form{
+    margin-top: 20px;
+    text-align: center;
+}
+.inp-field{
+    width: 35%;
+    padding: 5px 0;
+    border: 0;
+    border-bottom: 2px solid #00b4d8;
+    outline: 0;
+    font-size: 20px;
+}
+.list-receipes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
